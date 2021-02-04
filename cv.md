@@ -1,18 +1,18 @@
 =======
 # **My CV**
 =======
-## My name **Dmitry Kondratsky**
-
-## CONTACTS 
-## **telegram:** *@neovlz1*, **Email:** *madcatxyz@mail.ru*
-
-## **Interested in web development**
-
-## my skills: *HTML/CSS* 
-
-## My Work experience
-
-## My education
-
-## Language: *English - A1*
+## **my name** 
+##          *Dmitry Kondratsky*
+## **сontacts:** 
+##          **telegram:** *@neovlz1*, **email:** *madcatxyz@mail.ru*
+## **interested:**
+##          *Web Development and Programming*
+## **my skills:** 
+##          *HTML/CSS*  *JS* 
+## **my work experience:**
+##          *small*
+## **my education:**
+##          *master’s degree of Automation of Technological Processes and Production*
+## **language:** 
+##          *English - A1*
 =======
