@@ -1,0 +1,69 @@
+
+body {
+    margin: 0;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 18px; 
+    font-style: normal; 
+    font-weight: 500;
+    font-kerning: auto;
+    background-size: 100%;
+    background: linear-gradient(#9A5044, #E8D9A9) fixed;
+  }
+
+  .page-header{
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+      
+  }
+  
+  .page-main {
+    margin: 0 auto;
+    display: flex;
+    width: 600px;
+  }
+
+  .list{
+    list-style-type: none;
+  }
+
+  h2, h4{
+     margin: 0 auto;
+  }
+
+  .bio {
+    width: 300px;
+    padding: 10px;
+  }
+
+  .about{
+    padding-left: 40px;
+  }
+  
+  .photo {
+    width: 200px;
+    padding: 10px;
+  }
+
+  .avatar{
+      padding-top: 5px;
+  }
+  .container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 600px;
+    margin: 0 auto;
+    padding: 0px;
+  }
+  
+  .git{
+    width: 60px;
+    height: auto;
+  }
+
+  .rss{
+    width: 150px;
+    height: auto;
+    float: left;
+  }
